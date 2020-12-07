@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working in the sportsbook team at LeoVegas
 - 🌱 I’m currently learning Swedish and trying to stay on top of react/node
-- 📫 Get in touch with me on [![(LinkedIn] https://www.linkedin.com/in/ryananglem/)]
+- 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ryananglem/)
 <!--
 **ryananglem/ryananglem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
