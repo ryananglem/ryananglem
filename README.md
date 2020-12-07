@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working in the sportsbook team at LeoVegas
+- 🔭 I’m currently working in the sportsbook team at LeoVegas in Stockholm
 - 🌱 I’m currently learning Swedish and trying to stay on top of react/node
 - 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ryananglem/)
 <!--
