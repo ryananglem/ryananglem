@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working in the sportsbook team at LeoVegas in Stockholm
-- 🌱 I’m currently learning Swedish and trying to stay on top of react/node
+- 🔭 I’m currently working for an amazing live sports streaming company called SolidSport in Stockholm
+- 🌱 I’m currently learning Swedish and trying to stay on top of react/node/typescript
 - 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ryananglem/)
+
+Some of the reops in my account need a little bit of love right now, but if you are interested in my work the most up-to-date react/typescript repo is the [coding test](https://github.com/ryananglem/leovegas-movie-search) I did before starting work at LeoVegas
 <!--
 **ryananglem/ryananglem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
